@@ -1,2 +1,0 @@
-# codility_training
-blablabla
